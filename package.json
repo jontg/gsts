@@ -1,9 +1,9 @@
 {
-  "name": "gsts",
+  "name": "@jontg/gsts",
   "version": "5.0.0",
   "description": "Google authentication for the AWS Management Console via Amazon's STS service",
   "license": "MIT",
-  "repository": "ruimarinho/gsts",
+  "repository": "jontg/gsts",
   "author": {
     "name": "Rui Marinho",
     "email": "ruipmarinho@gmail.com"
